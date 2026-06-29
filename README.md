@@ -750,33 +750,10 @@ print(f"Emotion: {emotion} (Confidence: {emotion_confidence:.3f})")</code></pre>
 
 <p align="center">
   <b>Patnam Koushik</b><br>
-  <i>Software Developer</i>
+ 
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/patnam-koushik" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:patnamkoushik@gmail.com">
-    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-  <a href="https://github.com/patnam-koushik" target="_blank">
-    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome" alt="Website">
-  </a>
-  <a href="https://github.com/patnam-koushik" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
 
-<br>
-
----
-
-<div align="center">
-
-### ⭐ Don't forget to star this repository if you find it helpful!
-
-</div>
 
 </body>
 </html>
